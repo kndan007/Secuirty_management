@@ -1,2 +1,2 @@
-# Secuirty_management
+# Vulnerability Management
 Nessus_lab
